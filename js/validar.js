@@ -1,3 +1,5 @@
+// site : https://amandajoioso.github.io/Cadastro-de-Usuario/
+
 //criando os objetos dos elementos de texto do form
 
 var nome = document.querySelector("#inputName");
